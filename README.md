@@ -55,7 +55,7 @@ This system allows admins to register, log in, and manage employee data, includi
 
 ---
 
-## 📂 GitHub Repository Structure
+##  GitHub Repository Structure
 
 ```bash
 /Employee-Management
