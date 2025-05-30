@@ -55,7 +55,9 @@ This system allows admins to register, log in, and manage employee data, includi
 
 ---
 
-##  GitHub Repository Structure
-/Employee Management
-├── employee-backend # Spring Boot backend
-├── employee-frontend # ReactJS frontend
+## 📂 GitHub Repository Structure
+
+```bash
+/Employee-Management
+├── employee-backend     # Spring Boot backend
+└── employee-frontend    # ReactJS frontend
